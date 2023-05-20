@@ -4,7 +4,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/claudiadaras/)
 
 - 🔭 I’m currently studying on Data Analytics in [EDEM](https://edem.eu/) 
-- 
+
 <br/>  
 
 ### 🛠️ Technologies and Tools I use:
