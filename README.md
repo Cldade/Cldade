@@ -1,9 +1,10 @@
 ### <div align="center">Hi 👋 I'm Claudia, a Data Engineer student 👩‍💻 🚀</div>  
 
-- 🔭 I’m currently studying on Data Analytics in [EDEM](https://edem.eu/) 
 - 💻 I currently work at Mercadona SA, in the IT deparment.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/claudiadaras/)
 
+- 🔭 I’m currently studying on Data Analytics in [EDEM](https://edem.eu/) 
+- 
 <br/>  
 
 ### 🛠️ Technologies and Tools I use:
@@ -31,21 +32,33 @@
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
+<a href="https://www.elastic.co/kibana/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana" height="50" /></a>  
 </div>
 
 <br/>  
 
-<!--
-**Cldade/Cldade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Cldade" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/claudiadaras" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/claudiaadaraas" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/claudia.darasdelafuente" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-Here are some ideas to get you started:
+<br/>  
 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>  
